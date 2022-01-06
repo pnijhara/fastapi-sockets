@@ -5,7 +5,7 @@ Implementing a simple chat application using redis, webockets and other usual fa
 
 1. Clone/Fork the repo
 ```shell
-$ git clone pnijhara/fastapi-stocks
+$ git clone pnijhara/fastapi-sockets
 ```
 
 2. Make a virtual environment
